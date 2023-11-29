@@ -7,3 +7,11 @@
     1. offer doubling advice
     1. provide the top n moves for a given roll from that position
 * I am building this project to learn how to use and incorporate several of the component parts, so I welcome any and all advice and criticism
+
+## Backgammon Programs
+- [GNU Backgammon](https://www.gnu.org/software/gnubg/)
+- [Extreme Gammon](https://www.extremegammon.com/)
+- [bgammon.org](https://bgammon.org/)
+
+## Repos
+- [List of Repos in Python](https://github.com/topics/backgammon?l=python)
