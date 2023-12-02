@@ -15,6 +15,9 @@
 
 ## Repos
 - [List of Repos in Python](https://github.com/topics/backgammon?l=python)
+- [multimodal-maestro](https://github.com/roboflow/multimodal-maestro)
+    - repo with a demo where you annotate an image (or set of images) and then have GPT-4 annotate the rest of the related images
+    - probably quite useful for labeling boards for a training set for the model pipeline of outputting the appropriate board representation from an image
 
 ## Notation
 - [Backgammon Notation](http://www.backgammon-play.net/GameNotation.htm)
