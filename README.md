@@ -18,6 +18,8 @@
 - [multimodal-maestro](https://github.com/roboflow/multimodal-maestro)
     - repo with a demo where you annotate an image (or set of images) and then have GPT-4 annotate the rest of the related images
     - probably quite useful for labeling boards for a training set for the model pipeline of outputting the appropriate board representation from an image
+- [td-gammon](https://github.com/dellalibera/td-gammon)
+    - code to use python to interact with gnubackgammon
 
 ## Notation
 - [Backgammon Notation](http://www.backgammon-play.net/GameNotation.htm)
